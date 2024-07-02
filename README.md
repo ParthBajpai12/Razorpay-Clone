@@ -12,10 +12,15 @@ This project is a responsive clone of Razorpay designed using HTML, CSS, and Tai
 
 **Accessibility**: Designed with accessibility considerations in mind to ensure inclusivity.
 
-**Technologies Used**
+**Technologies Used**:
+
 HTML
+
 CSS
+
 Tailwind CSS
+
+
 
 **Performance**
 
