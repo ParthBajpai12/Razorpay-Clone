@@ -1,7 +1,6 @@
 # Razorpay-Clone
 This project is a responsive clone of Razorpay designed using HTML, CSS, and Tailwind CSS, maintaining fidelity to the original design while incorporating modern web development practices for scalability and performance.
-
-**Features**
+**Features:**
 
 **Responsive Design**: Ensures seamless usability across devices of all sizes.
 
@@ -17,6 +16,10 @@ This project is a responsive clone of Razorpay designed using HTML, CSS, and Tai
 HTML
 CSS
 Tailwind CSS
+
 **Performance**
-**Optimized Loading Times**: Implemented image compression, lazy loading, and caching strategies.
-**Performance Audits**: Conducted meticulous performance audits to identify and address bottlenecks.
+
+**Optimized Loading Times**:
+Implemented image compression, lazy loading, and caching strategies.
+**Performance Audits**:
+Conducted meticulous performance audits to identify and address bottlenecks.
